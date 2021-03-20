@@ -4,9 +4,9 @@
 
 현재 관심사: 학교 과제, VR, 게임 개발 전반, 컴퓨터비전
 
-홈페이지: kimyongwook.duckdns.org
+홈페이지: [kimyongwook.duckdns.org]
 
-kim.yongwook.snu at gmail.com 으로 메일 주세요.
+[kim.yongwook.snu at gmail.com](mailto:kim.yongwook.snu@gmail.com) 으로 메일 주세요.
 <!---
 2wind/2wind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
