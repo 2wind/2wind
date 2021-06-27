@@ -4,7 +4,7 @@
 
 현재 관심사: 학교 과제, VR, 게임 개발 전반, 컴퓨터비전
 
-홈페이지: [https://kimyongwook.duckdns.org](kimyongwook.duckdns.org)
+홈페이지: [https://kimyongwook.duckdns.org](https://kimyongwook.duckdns.org)
 
 kim.yongwook.snu at gmail dt com 으로 메일 주세요.
 <!---
