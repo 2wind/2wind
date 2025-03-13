@@ -8,7 +8,7 @@
 
 # 링크
 - 현재 관심사: 게임 개발, 툴 개발, 프로그래밍, 커피, ...
-- 홈페이지: [https://kimyongwook.duckdns.org](https://kimyongwook.duckdns.org)
+- 홈페이지: https://2wind.pages.dev/
 - rladyddnrl at gmail dt com 으로 메일 주세요.
 
 <!---
