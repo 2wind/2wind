@@ -7,7 +7,7 @@
 - 컴퓨터비전 및 컴퓨터그래픽스 과목에서 OpenCV / OpenGL, C++를 이용해 프로젝트를 진행하였습니다. 
 
 # 링크
-- 현재 관심사: 학교 과제, VR, 게임 개발 전반, 컴퓨터비전
+- 현재 관심사: 게임 개발, 툴 개발, 프로그래밍, 커피, ...
 - 홈페이지: [https://kimyongwook.duckdns.org](https://kimyongwook.duckdns.org)
 - rladyddnrl at gmail dt com 으로 메일 주세요.
 
